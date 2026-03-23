@@ -124,15 +124,7 @@ h1 {
     transform: scale(0.97);
 }
 
-.btn-email-small {
-    background: #f1f5f9;
-    color: var(--text-main);
-    border: 1px solid var(--border);
-}
 
-.btn-email-small:hover {
-    background: #111519;
-}
 
 /* Sections */
 .section {
